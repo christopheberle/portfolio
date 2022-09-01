@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Redesigning my portfolio with Vue.js",
+        "summary": "As my first ever front-end project I redesigned my portfolio and coded it completely from scratch with Vue.js using HTML, CSS (Sass) and Javascript.",
+        "link": "https://github.com/christopheberle/bayesian-neural-network",
+        "image": "vue-logo.svg",
+        "programmingLanguages":[
+            {"iconName": "fab fa-vuejs", "langName": "Vue 3"},
+            {"iconName": "fab fa-js", "langName": "Javascript"}, 
+            {"iconName": "fab fa-sass", "langName": "Sass"}, 
+            {"iconName": "fab fa-html5", "langName": "HTML"}],
+        "buttonLabel": "View on GitHub" 
+    },
+    {
+        "title": "MNIST with Bayesian Neural Nets", 
+        "summary": "I built a Bayesian Feed-forward Neural Network from scratch in PyMC3 and trained it on the MNIST handwritten digits data set. The model achieved an accuracy of 93.8% on the test set with a single hidden layer of 128 neurons.",
+        "link": "https://github.com/christopheberle/bayesian-neural-network",
+        "image": "",
+        "programmingLanguages": [
+            {"iconName": "fab fa-python", "langName": "Python"}, 
+            { "iconName": "fa-solid fa-cubes", "langName": "PyMC"}
+        ],
+        "buttonLabel": "View on GitHub"
+    }
+]

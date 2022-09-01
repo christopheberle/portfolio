@@ -1,0 +1,9 @@
+[
+    {
+        "title" : "My First Blog Post",
+        "summary": "summary goes here summary goes here ",
+        "image": "",
+        "details": "31st August 2022",
+        "routerLink": "/blog/dummy"
+    }
+]
