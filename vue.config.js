@@ -9,5 +9,5 @@ module.exports = defineConfig({
         .loader('raw-loader')
         .end()
   },
-  publicPath: "/"
+  publicPath: "/portfolio/"
 })
