@@ -8,5 +8,6 @@ module.exports = defineConfig({
       .use('raw-loader')
         .loader('raw-loader')
         .end()
-  }
+  },
+  publicPath: "/"
 })

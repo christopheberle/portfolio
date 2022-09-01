@@ -14,7 +14,7 @@
     {
         "title": "MNIST with Bayesian Neural Nets", 
         "summary": "I built a Bayesian Feed-forward Neural Network from scratch in PyMC3 and trained it on the MNIST handwritten digits data set. The model achieved an accuracy of 93.8% on the test set with a single hidden layer of 128 neurons.",
-        "link": "https://github.com/christopheberle/bayesian-neural-network",
+        "link": "https://github.com/christopheberle/portfolio",
         "image": "",
         "programmingLanguages": [
             {"iconName": "fab fa-python", "langName": "Python"}, 

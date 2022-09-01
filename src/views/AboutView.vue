@@ -3,7 +3,7 @@
     <ViewHeader title="About" subtitle="Me, Myself & I" />
     <div class="page-content-container" style="flex-direction: row; justify-content: space-between;">
       <div class="about-image-container">
-        <img src="@/assets/img/profile-placeholder.jpg" style="max-width: 100%; height: auto; width: auto;" alt="">
+        <img src="@/assets/img/profile_picture.png" style="max-width: 100%; height: auto; width: auto;" alt="">
       </div>
       <div class="about-text-container">
         <h1>Christoph Eberle</h1>
